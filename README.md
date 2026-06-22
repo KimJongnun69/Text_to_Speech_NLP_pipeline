@@ -456,10 +456,10 @@ Implemented a complete speech recognition pipeline.
 
 Project includes:
 
-✓ Dataset preprocessing from LibriSpeech corpus  
-✓ Whisper pretrained baseline evaluation  
-✓ Transformer-based Wav2Vec2 fine-tuning  
-✓ Audio inference pipeline for custom audio  
-✓ Word Error Rate evaluation  
-✓ Comparison between two ASR architectures  
-✓ Reproducible project structure
+Dataset preprocessing from LibriSpeech corpus  
+Whisper pretrained baseline evaluation  
+Transformer-based Wav2Vec2 fine-tuning  
+Audio inference pipeline for custom audio  
+Word Error Rate evaluation  
+Comparison between two ASR architectures  
+Reproducible project structure
